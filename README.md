@@ -82,7 +82,7 @@ $ cd public
 # Run the project
 $ php -S 127.0.0.1:8000
 
-# The server will initialize in the <http://localhost:3000>
+# The server will initialize in the <http://localhost:8000>
 ```
 
 ## :memo: License ##
