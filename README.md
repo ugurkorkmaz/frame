@@ -44,13 +44,13 @@
 
 ## :dart: About ##
 
-Describe your project
+Building a fast and powerful skeleton using php and composer.
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+:heavy_check_mark: Annotation Route;\
+:heavy_check_mark: Dependency Manager;\
+:heavy_check_mark: Data Management Tool (session, database, http request);
 
 ## :rocket: Technologies ##
 
@@ -90,7 +90,7 @@ $ php -S 127.0.0.1:8000
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 
-Made with :heart: by <a href="https://github.com/ugurkorkmaz" target="_blank">{{YOUR_NAME}}</a>
+Made with :heart: by <a href="https://github.com/ugurkorkmaz" target="_blank">Uğur Korkmaz</a>
 
 &#xa0;
 
