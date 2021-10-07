@@ -2,8 +2,6 @@
   <img src="./.github/app.gif" alt="Frame" />
 
   &#xa0;
-
-  <!-- <a href="https://frame.netlify.app">Demo</a> -->
 </div>
 
 <h1 align="center">Frame</h1>
@@ -17,11 +15,11 @@
 
   <img alt="License" src="https://img.shields.io/github/license/ugurkorkmaz/frame?color=56BEB8">
 
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/ugurkorkmaz/frame?color=56BEB8" /> -->
+<img alt="Github issues" src="https://img.shields.io/github/issues/ugurkorkmaz/frame?color=56BEB8" />
 
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/ugurkorkmaz/frame?color=56BEB8" /> -->
+<img alt="Github forks" src="https://img.shields.io/github/forks/ugurkorkmaz/frame?color=56BEB8" />
 
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/ugurkorkmaz/frame?color=56BEB8" /> -->
+<img alt="Github stars" src="https://img.shields.io/github/stars/ugurkorkmaz/frame?color=56BEB8" />
 </p>
 
 <!-- Status -->
@@ -58,15 +56,13 @@ Describe your project
 
 The following tools were used in this project:
 
-- [Expo](https://expo.io/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+- [PHP](https://www.php.net/)
+- [COMPOSER](https://getcomposer.org/)
+- [PACKAGIST](https://packagist.org/)
 
 ## :white_check_mark: Requirements ##
 
-Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
+Before starting :checkered_flag:, you need to have [Git](https://git-scm.com), [PHP](https://nodejs.org/en/) and [COMPOSER](https://getcomposer.org/) installed.
 
 ## :checkered_flag: Starting ##
 
