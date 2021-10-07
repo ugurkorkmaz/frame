@@ -1,6 +1,7 @@
 {
     "name": "ugurkorkmaz/frame",
-    "description": "PHP, composer frame.",
+    "description": "Building a fast and powerful skeleton using php and composer.",
+    "license": "GPL-3.0",
     "type": "project",
     "require": {
         "symfony/http-foundation": "^5.3",
