@@ -1,0 +1,24 @@
+<?php
+class constant
+{
+
+    private static $constant =  null;
+    private static function set()
+    {
+        if (self::$constant === null) {
+            self::$constant = self::constantData();
+        }
+        return self::$constant;
+    }
+    private static function constantData()
+    {
+       return [
+           'ROOT' => dirname(__DIR__),
+       ];
+    }
+    public static function get($key)
+    {
+       self::set();
+       return (array_key_exists($key, self::$constant)) ? self::$constant[$key] : null;
+    }
+}
