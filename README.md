@@ -48,9 +48,9 @@ Building a fast and powerful skeleton using php and composer.
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: Annotation Route;\
-:heavy_check_mark: Dependency Manager;\
-:heavy_check_mark: Data Management Tool (session, database, http request);
+:wrench::hammer: Annotation Route;\
+:wrench::hammer: Dependency Manager;\
+:wrench::hammer: Data Management Tool (session, database, http request);
 
 ## :rocket: Technologies ##
 
