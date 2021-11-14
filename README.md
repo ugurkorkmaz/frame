@@ -1,4 +1,4 @@
-<div align="center" id="top"> 
+<div align="center" id="top" style="font-size: 48px"> 
   :art:
   &#xa0;
 </div>
