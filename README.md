@@ -1,6 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Frame" />
-
+  :art:
   &#xa0;
 </div>
 
