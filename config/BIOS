@@ -2,5 +2,7 @@
 
 use Symfony\Component\Dotenv\Dotenv;
 
-$dotenv = new Dotenv();
-$dotenv->load(constant::get('ROOT') . '/.env');
+// Load environment variables from .env file
+$dotenv = (new Dotenv())->load(constant::get('ROOT') . '/.env');
+
+
